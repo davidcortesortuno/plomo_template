@@ -24,3 +24,7 @@ I recommend using a recent TeXLive (or another TeX distribution) version to
 avoid problems of compilation. I tested this template in Arch Linux with
 TeXLive 2017.  Most of the package are in the official repositories of this
 Linux distribution. Otherwise, you have to manually install packages from CTAN.
+
+This template is licensed under a BSD 2-Clause License:
+
+Copyright (c) 2018, David Ignacio Cortés Ortuño
