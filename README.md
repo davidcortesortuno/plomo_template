@@ -1,4 +1,5 @@
-# plomo_template
+# Plomo
+
 A modern University of Southampton PhD thesis template
 
 ## Description
