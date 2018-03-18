@@ -1,3 +1,9 @@
+% This template is copyrightes under:
+% BSD 2-Clause License
+% Copyright (c) 2018, David Ignacio Cortés Ortuño
+% All rights reserved.
+%
+
 % KOMA script book
 \LoadClass[11pt,twoside=true,bibliography=totoc]{scrbook}
 

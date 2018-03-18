@@ -28,3 +28,5 @@ Linux distribution. Otherwise, you have to manually install packages from CTAN.
 This template is licensed under a BSD 2-Clause License:
 
 Copyright (c) 2018, David Ignacio Cortés Ortuño
+
+I'd appreciate acknowledgment where possible ;)
